@@ -1,0 +1,10 @@
+C:\Users\user\Desktop\BilgeadamEğitim\GitRepo\HepsigidiyorOOP_Example\HepsigidiyorOOP_Example\bin\Debug\HepsigidiyorOOP_Example.exe.config
+C:\Users\user\Desktop\BilgeadamEğitim\GitRepo\HepsigidiyorOOP_Example\HepsigidiyorOOP_Example\bin\Debug\HepsigidiyorOOP_Example.exe
+C:\Users\user\Desktop\BilgeadamEğitim\GitRepo\HepsigidiyorOOP_Example\HepsigidiyorOOP_Example\bin\Debug\HepsigidiyorOOP_Example.pdb
+C:\Users\user\Desktop\BilgeadamEğitim\GitRepo\HepsigidiyorOOP_Example\HepsigidiyorOOP_Example\obj\Debug\HepsigidiyorOOP_Example.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\BilgeadamEğitim\GitRepo\HepsigidiyorOOP_Example\HepsigidiyorOOP_Example\obj\Debug\HepsigidiyorOOP_Example.Properties.Resources.resources
+C:\Users\user\Desktop\BilgeadamEğitim\GitRepo\HepsigidiyorOOP_Example\HepsigidiyorOOP_Example\obj\Debug\HepsigidiyorOOP_Example.csproj.GenerateResource.cache
+C:\Users\user\Desktop\BilgeadamEğitim\GitRepo\HepsigidiyorOOP_Example\HepsigidiyorOOP_Example\obj\Debug\HepsigidiyorOOP_Example.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\BilgeadamEğitim\GitRepo\HepsigidiyorOOP_Example\HepsigidiyorOOP_Example\obj\Debug\HepsigidiyorOOP_Example.exe
+C:\Users\user\Desktop\BilgeadamEğitim\GitRepo\HepsigidiyorOOP_Example\HepsigidiyorOOP_Example\obj\Debug\HepsigidiyorOOP_Example.pdb
+C:\Users\user\Desktop\BilgeadamEğitim\GitRepo\HepsigidiyorOOP_Example\HepsigidiyorOOP_Example\obj\Debug\HepsigidiyorOOP_Example.MainForm.resources
