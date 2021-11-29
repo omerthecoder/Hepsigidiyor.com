@@ -8,3 +8,14 @@ C:\Users\user\Desktop\BilgeadamEğitim\GitRepo\HepsigidiyorOOP_Example\Hepsigidi
 C:\Users\user\Desktop\BilgeadamEğitim\GitRepo\HepsigidiyorOOP_Example\HepsigidiyorOOP_Example\obj\Debug\HepsigidiyorOOP_Example.exe
 C:\Users\user\Desktop\BilgeadamEğitim\GitRepo\HepsigidiyorOOP_Example\HepsigidiyorOOP_Example\obj\Debug\HepsigidiyorOOP_Example.pdb
 C:\Users\user\Desktop\BilgeadamEğitim\GitRepo\HepsigidiyorOOP_Example\HepsigidiyorOOP_Example\obj\Debug\HepsigidiyorOOP_Example.MainForm.resources
+C:\Users\User\Source\Repos\Hepsigidiyor.com\HepsigidiyorOOP_Example\HepsigidiyorOOP_Example\bin\Debug\HepsigidiyorOOP_Example.exe.config
+C:\Users\User\Source\Repos\Hepsigidiyor.com\HepsigidiyorOOP_Example\HepsigidiyorOOP_Example\bin\Debug\HepsigidiyorOOP_Example.exe
+C:\Users\User\Source\Repos\Hepsigidiyor.com\HepsigidiyorOOP_Example\HepsigidiyorOOP_Example\bin\Debug\HepsigidiyorOOP_Example.pdb
+C:\Users\User\Source\Repos\Hepsigidiyor.com\HepsigidiyorOOP_Example\HepsigidiyorOOP_Example\obj\Debug\HepsigidiyorOOP_Example.csprojAssemblyReference.cache
+C:\Users\User\Source\Repos\Hepsigidiyor.com\HepsigidiyorOOP_Example\HepsigidiyorOOP_Example\obj\Debug\HepsigidiyorOOP_Example.MainForm.resources
+C:\Users\User\Source\Repos\Hepsigidiyor.com\HepsigidiyorOOP_Example\HepsigidiyorOOP_Example\obj\Debug\HepsigidiyorOOP_Example.Properties.Resources.resources
+C:\Users\User\Source\Repos\Hepsigidiyor.com\HepsigidiyorOOP_Example\HepsigidiyorOOP_Example\obj\Debug\HepsigidiyorOOP_Example.csproj.GenerateResource.cache
+C:\Users\User\Source\Repos\Hepsigidiyor.com\HepsigidiyorOOP_Example\HepsigidiyorOOP_Example\obj\Debug\HepsigidiyorOOP_Example.csproj.CoreCompileInputs.cache
+C:\Users\User\Source\Repos\Hepsigidiyor.com\HepsigidiyorOOP_Example\HepsigidiyorOOP_Example\obj\Debug\HepsigidiyorOOP_Example.exe
+C:\Users\User\Source\Repos\Hepsigidiyor.com\HepsigidiyorOOP_Example\HepsigidiyorOOP_Example\obj\Debug\HepsigidiyorOOP_Example.pdb
+C:\Users\User\Source\Repos\Hepsigidiyor.com\HepsigidiyorOOP_Example\HepsigidiyorOOP_Example\obj\Debug\HepsigidiyorOOP_Example.OrderHistoryForm.resources

@@ -1,4 +1,5 @@
-﻿using System;
+﻿using HepsigidiyorOOP_Example.Repositories;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
@@ -15,6 +16,8 @@ namespace HepsigidiyorOOP_Example
         static void Main()
         {
             Application.EnableVisualStyles();
+            DummyData dd = new DummyData();
+            dd.Seed();
             Application.SetCompatibleTextRenderingDefault(false);
             Application.Run(new MainForm());
         }
